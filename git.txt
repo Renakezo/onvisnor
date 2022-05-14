@@ -1,0 +1,6 @@
+git init - создать репозиторий
+git add . - добавить в локалку
+git commit -m"Любое сообщение"
+
+
+tchernosckutoff.egor@yandex.ru
